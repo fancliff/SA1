@@ -1,0 +1,5 @@
+Re 1e6, vel grad -0.5 , sep loc 0.8950
+Re 1e7, vel grad -0.5 , sep loc 0.9887
+Re 1e8, vel grad -0.5 , sep loc N/A
+Re 1e7, vel grad -0.25, sep loc N/A
+Re 1e7, vel grad -0.95, sep loc 0.5230

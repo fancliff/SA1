@@ -1,0 +1,1 @@
+for ReL = 1e5, velgrad = -0.38 gives turbulent separation at x=L (x/L) = 1

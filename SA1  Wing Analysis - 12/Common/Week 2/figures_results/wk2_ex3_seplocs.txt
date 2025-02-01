@@ -1,0 +1,5 @@
+Re 1e3, vel grad -0.25, sep loc 0.50
+Re 1e4, vel grad -0.25, sep loc 0.50
+Re 1e5, vel grad -0.25, sep loc 0.50
+
+transition supplants seperation at ReL = 8.957e5 (with vel grad = -0.25)

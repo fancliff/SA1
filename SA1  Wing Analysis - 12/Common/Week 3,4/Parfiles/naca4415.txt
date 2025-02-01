@@ -1,0 +1,4 @@
+Section identifier              : naca4415
+Number of panels                : 800
+Reynolds number                 : 0.5e6
+Range of incidences (degrees)   : -5:0.5:15

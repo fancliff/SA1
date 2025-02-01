@@ -1,0 +1,4 @@
+Section identifier              : lowRe_2a
+Number of panels                : 800
+Reynolds number                 : 0.5e6
+Range of incidences (degrees)   : -2:0.5:15

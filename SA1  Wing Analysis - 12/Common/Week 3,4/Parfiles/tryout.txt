@@ -1,0 +1,4 @@
+Section identifier              : foil
+Number of panels                : 100
+Reynolds number                 : 3e6
+Range of incidences (degrees)   : 0:5:10

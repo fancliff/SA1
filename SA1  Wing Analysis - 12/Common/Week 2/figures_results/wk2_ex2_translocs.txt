@@ -1,0 +1,16 @@
+ReL 5e6:
+    vel grad -0.1, trans loc 0.48, Rethet 1.0802
+    vel grad  0.0, trans loc 0.74, Rethet 1.2903
+    vel grad +0.1, trans loc N/A , Rethet N/A
+
+ReL 1e7:
+    vel grad -0.1, trans loc 0.29, Rethet 1.1686
+    vel grad  0.0, trans loc 0.37, Rethet 1.2903
+    vel grad +0.1, trans loc 0.55, Rethet 1.5145
+
+ReL 2e7:
+    vel grad -0.1, trans loc 0.17, Rethet 1.2532
+    vel grad  0.0, trans loc 0.19, Rethet 1.3077
+    vel grad +0.1, trans loc 0.22, Rethet 1.3848
+
+Rethet is divided by 1000 in the above
